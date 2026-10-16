@@ -1,1 +1,10 @@
 
+{
+  "device_id": "NAK_U1",
+  "version": "0.0.0",
+  "firmware_url": "",
+  "sha256": "",
+  "release_notes": "Initial OTA setup",
+  "approved": false
+}
+
