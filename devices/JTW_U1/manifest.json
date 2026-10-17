@@ -1,1 +1,9 @@
 
+{
+  "device_id": "NAK_U1",
+  "version": "1.0.1",
+  "firmware_url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/NAK_U1/releases/NAK_U1_OTA_R1_1_0_1.ino.bin",
+  "sha256": "42e0ef06a1f209f737e8e3ea86187d2669a01946bda8f7df1ed6fe4bd15902c7",
+  "release_notes": "NAK_U1 OTA test release 1.0.1",
+  "approved": true
+}
