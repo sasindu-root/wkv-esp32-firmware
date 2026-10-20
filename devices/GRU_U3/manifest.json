@@ -1,9 +1,9 @@
 
 {
   "device_id": "GRU_U3",
-  "version": "1.0.2",
-  "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/GRU_U3/releases/GRU_U3_1_0_2.ino.bin",
-  "sha256": "071e94832eea6f3d1dedabebb67f1a124d08bfefbf2c0b74329b505d295ae1dd",
+  "version": "1.0.3",
+  "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/GRU_U3/releases/GRU_U3_1_0_3.ino.bin",
+  "sha256": "d9001c93c0d7cd81a8bb9e113c49f9786b55b6f9d3800cecea6e90d3310553c6",
   "release_notes": "GRU Unit 3 firmware with OTA approval validation.",
-  "approved": false
+  "approved": true
 }
