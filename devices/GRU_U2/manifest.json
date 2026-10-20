@@ -1,1 +1,8 @@
-
+{
+  "device_id": "GRU_U2",
+  "version": "1.0.3",
+  "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/GRU_U2/releases/GRU_U2_1_0_3.ino.bin",
+  "sha256": "d",
+  "release_notes": "GRU Unit 2 last update v_1.0.3.",
+  "approved": false
+}
