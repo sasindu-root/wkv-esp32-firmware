@@ -6,3 +6,4 @@
   "sha256": "REPLACE_WITH_64_CHARACTER_SHA256_HASH"
   "release_notes": "Initial JTW_U1 solar monitoring firmware with MySQL data upload and OTA support.",
   "approved": true
+}
