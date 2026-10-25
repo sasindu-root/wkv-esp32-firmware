@@ -1,0 +1,8 @@
+{
+  "device_id": "FAV_U1",
+  "version": "1.0.2",
+  "firmware_url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/FAV_U1/releases/FAV_U1_1_0_2.ino.bin",
+  "sha256": "enter sha256",
+  "release_notes": "FAV_U1 OTA release 1.0.2",
+  "approved": false
+}
