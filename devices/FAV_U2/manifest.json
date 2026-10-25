@@ -1,7 +1,7 @@
 {
   "device_id": "FAV_U2",
   "version": "1.0.2",
-  "firmware_url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/FAV_U2/releases/FAV_U2_1_0_2.ino.bin",
+  "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/FAV_U2/releases/FAV_U2_1_0_2.ino.bin",
   "sha256": "fb6be98a53e777914b1cd80525ac5c99eda0c24392391c57c95861dd0a02728c",
   "release_notes": "FAV_U2 OTA release 1.0.2",
   "approved": true
