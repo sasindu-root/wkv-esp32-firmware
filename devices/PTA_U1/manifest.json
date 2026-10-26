@@ -1,8 +1,8 @@
 {
   "device_id": "PTA_U1",
-  "version": "1.0.0",
-  "firmware_url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/NAK_U2/releases/NAK_U2_OTA_R1_1_0_0.ino.bin",
+  "version": "1.0.3",
+  "firmware_url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/PTA_U1/releases/PTA_U1_1_0_3.ino.bin",
   "sha256": "enter sha256",
-  "release_notes": "PTA_U1 OTA test release 1.0.0",
+  "release_notes": "PTA_U1 OTA test release 1.0.3",
   "approved": false
 }
