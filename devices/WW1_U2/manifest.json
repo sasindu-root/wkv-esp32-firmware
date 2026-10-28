@@ -4,5 +4,5 @@
   "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/WW1_U2/releases/WW1_U2_1_0_2.ino.bin",
   "sha256": "41e716755b90bc2713f717325ebaf70e42e3fe6359ad0a47e9d42f13d4eb35f8",
   "release_notes": "WW2_U1 OTA release 1.0.2",
-  "approved": false
+  "approved": true
 }
