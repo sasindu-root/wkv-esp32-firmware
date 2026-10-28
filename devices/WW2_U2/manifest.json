@@ -2,7 +2,7 @@
   "device_id": "WW2_U2",
   "version": "1.0.3",
   "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/WW2_U2/releases/WW2_U2_1_0_2.ino.bin",
-  "sha256": "823bb5233ad4868cb424ecd7fcb909835008fade14ac994687f98876128244b4",
+  "sha256": "f57477453f70a7c00a4ee1cd60c8f73a900196aab4167cf2138ffd7c0b0645c7",
   "release_notes": "WW2_U2 OTA release 1.0.3",
   "approved": false
 }
