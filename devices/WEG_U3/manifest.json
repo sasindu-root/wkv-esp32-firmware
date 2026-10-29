@@ -1,1 +1,8 @@
-
+{
+  "device_id": "WEG_U3",
+  "version": "1.0.2",
+  "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/WEG_U3/releases/WEG_U3_1_0_2.ino.bin",
+  "sha256": "37e32d3a5acb48bd0f82bae2f6bf582ecdb645cde623d13c0a38a659b6548286",
+  "release_notes": "WEG_U3 OTA release 1.0.2",
+  "approved": true
+}
