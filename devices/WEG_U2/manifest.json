@@ -1,8 +1,8 @@
 {
   "device_id": "WEG_U2",
-  "version": "1.0.2",
-  "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/WEG_U2/releases/WEG_U2_1_0_2.ino.bin",
-  "sha256": "8c9a13f439873f6131efc7b2a7aca3463cc47ca383ff04bf27294d7a29834c0d",
-  "release_notes": "WEG_U2 OTA release 1.0.2",
+  "version": "1.0.3",
+  "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/WEG_U2/releases/WEG_U2_1_0_3.ino.bin",
+  "sha256": "70b380cc9d4aa50dec90b904a3235d4256d627f8a275b1c2e055cfa471a80273",
+  "release_notes": "WEG_U2 OTA release 1.0.3",
   "approved": true
 }
