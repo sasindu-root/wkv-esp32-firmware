@@ -2,7 +2,7 @@
   "device_id": "BGD_U2",
   "version": "1.0.2",
   "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/BGD_U2/releases/BGD_U2_1_0_2.ino.bin",
-  "sha256": "",
+  "sha256": "e7add75a997a0c25bd1c235415d518a0d71bd912a7cb13259b0bbf5b4d29d03e",
   "release_notes": "BGD_U2 OTA release 1.0.2",
   "approved": true
 }
