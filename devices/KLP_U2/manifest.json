@@ -2,7 +2,7 @@
   "device_id": "KLP_U2",
   "version": "1.0.2",
   "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/KLP_U2/releases/KLP_U2_1_0_2.ino.bin",
-  "sha256": "",
+  "sha256": "0be711c890026542e45727b25de74bea56be4131c539922b9d6a88112f90cef3",
   "release_notes": "KLP_U2 OTA release 1.0.2",
-  "approved": false
+  "approved": true
 }
