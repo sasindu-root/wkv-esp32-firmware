@@ -1,8 +1,8 @@
 {
   "device_id": "BC2_U2",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/BC2_U2/releases/BC2_U2_1_0_0.ino.bin",
-  "sha256": "",
-  "release_notes": "BC2_U2 placeholder - no approved firmware yet",
+  "sha256": "18100fb830a22bcfd00078f477886f3baa436f42800302feebad4d0825372504",
+  "release_notes": "1.0.0: first OTA firmware (new OTA/SD design)",
   "approved": false
 }

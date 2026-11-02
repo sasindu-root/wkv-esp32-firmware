@@ -1,8 +1,8 @@
 {
   "device_id": "BC1_U1",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/BC1_U1/releases/BC1_U1_1_0_0.ino.bin",
-  "sha256": "",
-  "release_notes": "BC1_U1 placeholder - no approved firmware yet",
+  "sha256": "4bdf4fc3a93de51c1452f450cccf8b8cf5c7327cdbc2a16117109e3b12ac0b16",
+  "release_notes": "1.0.0: first OTA firmware (new OTA/SD design)",
   "approved": false
 }
