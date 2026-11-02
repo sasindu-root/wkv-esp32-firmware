@@ -1,8 +1,8 @@
 {
   "device_id": "THA_U2",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/THA_U2/releases/THA_U2_1_0_0.ino.bin",
-  "sha256": "",
-  "release_notes": "THA_U2 placeholder - no approved firmware yet",
+  "sha256": "e8ab46197dbf70b9bce3f24f32396d63428a54ea64f9bfb99268a3c4731d1319",
+  "release_notes": "1.0.0: first OTA firmware (new OTA/SD design)",
   "approved": false
 }

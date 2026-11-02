@@ -8,6 +8,7 @@ Firmware files must be compiled for the correct NORVI AE04-V / ESP32 configurati
 Release files will use versioned filenames, for example:
 
 - `bc1_u1_v1.0.0.bin`
+- `BC1_U1_1_0_0.ino.bin` (1.0.0, not yet approved)
 
 Do not upload source code, Wi-Fi passwords, API credentials, or other secrets here.
 

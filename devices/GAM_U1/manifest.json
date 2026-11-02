@@ -1,8 +1,8 @@
 {
   "device_id": "GAM_U1",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "url": "https://raw.githubusercontent.com/sasindu-root/wkv-esp32-firmware/main/devices/GAM_U1/releases/GAM_U1_1_0_0.ino.bin",
-  "sha256": "",
-  "release_notes": "GAM_U1 placeholder - no approved firmware yet",
+  "sha256": "4997e3d6169ac8be05f635e394e12bbbb29483a42f973fb851b6712256d0cab6",
+  "release_notes": "1.0.0: first OTA firmware (new OTA/SD design)",
   "approved": false
 }
